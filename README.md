@@ -1,2 +1,2 @@
 # aula-bootstrap
-Utilizando bootstrap
+Utilizando bootstrap e aplicando num projeto.
